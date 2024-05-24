@@ -1,0 +1,84 @@
+DSA - Roadmap in C++
+Classes & Objects
+class private / structure public
+Arrays
+Stacks
+Queues
+Linked Lists
+        a. Singly
+        b. Doubly
+        c. Circular
+        d. Interview Questions : Middle Of A LinkedList / Reverse A Linked List
+
+STL : Standard Template Library
+        a. stack
+        b. queue
+        c. list - doubly linked list, forwardList -> SLL
+        d. map
+            * ordered_map
+            * unordered_map
+            * map with list of strings
+            * hashmap <key, value>
+
+Trees:
+        a. Binary Tree
+        b. Tree Traversal using Recursion -> InOrder, PreOrder, PostOrder
+        c. AVL Tree / Binary Search Tree
+        d. Interview Questions : Mirror Of A Binary Tree / Identical Trees
+
+Recursion :
+        a. Backtracking & Applications
+            * NQueen
+            * Rat In A Maze
+            * Sudoku Solver
+            * Subsets of a string
+        b. Dynamic Programming :
+            Memoization
+            Tabulation
+            Space Optimization
+
+Priority Queue: ->
+Heap Sort Heaps-> MaxHeap, MinHeap, Heapify, Delete, Insert
+Graphs -> trees - tries
+Graphs : Directed / Undirected ->
+Heaps  :
+Tries  :
+Algorithms:
+Dijkstra's Algorithm / Spanning Tree Algorithm
+Kruskal's Algorithm
+Prim's Algorithm
+MST
+
+Kadane's Algorithm -> Arrays (Maximum Sum Subarray)
+
+Searching & Sorting Algorithms:
+Linear Search - O(N) ?
+Binary Search - log(N) ?
+Recursive Binary Search - log(N) ?
+Bubble Sort - O(N^2) ?
+Selection Sort -> Swapping O(N^2)
+Insertion Sort -> Shifting O(N^2)
+Heap Sort -> Heapify -> Min Heap & Max Heap -> Trees
+Count Sort - O(N + max)
+Radix Sort - O(N + max)
+Merge Sort - Merge -> O(N)  Splitting -> O(log (N)) => Total N * Log (N) ?
+
+Time Complexity / Space Complexity
+
+Question : MaxHeap :
+Homework:
+Problem Statement: You are given a scenario where you need to manage a priority
+queue of people based on their ages.
+The priority should be given to people with higher ages.
+Write a C++ program that accomplishes this task using the priority_queue
+container from the Standard Template Library (STL).
+
+The program should:
+
+* Define a Person struct with name and age attributes.
+* Implement a custom comparator to prioritize people based on their age,
+with higher age having higher priority.
+* Insert several Person objects into the priority queue.
+* Continuously extract and print the Person objects from the priority queue
+until it is empty, displaying the name and age of each person.
+

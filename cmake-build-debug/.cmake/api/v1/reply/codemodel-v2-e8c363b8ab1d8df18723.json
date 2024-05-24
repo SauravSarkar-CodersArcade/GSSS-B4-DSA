@@ -1,0 +1,348 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GSSS_DS2_B4",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4-Debug-a1816b2134d07feb1bd1.json",
+					"name" : "GSSS_DS2_B4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_0::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_0-Debug-73d7a76900e7599f801b.json",
+					"name" : "GSSS_DS2_B4_0",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_1-Debug-ecad7530bc14df6b29ff.json",
+					"name" : "GSSS_DS2_B4_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_10-Debug-2f2fc534b03f433d8070.json",
+					"name" : "GSSS_DS2_B4_10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_11-Debug-7259b1a9e0bdca653f15.json",
+					"name" : "GSSS_DS2_B4_11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_12-Debug-bf6fee75b7fa1b1fe80f.json",
+					"name" : "GSSS_DS2_B4_12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_13-Debug-2291bdd54ce936fb4dfe.json",
+					"name" : "GSSS_DS2_B4_13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_14-Debug-db3d1b9e4168bb6698b5.json",
+					"name" : "GSSS_DS2_B4_14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_15-Debug-369e013205a60ddcaf95.json",
+					"name" : "GSSS_DS2_B4_15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_16-Debug-e8c047f4324c79aaa454.json",
+					"name" : "GSSS_DS2_B4_16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_17-Debug-3c3e3c2c70b8e9692584.json",
+					"name" : "GSSS_DS2_B4_17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_18-Debug-5e79ad20f6fb995ebb87.json",
+					"name" : "GSSS_DS2_B4_18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_19::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_19-Debug-1795051d50fa4fa3f9d1.json",
+					"name" : "GSSS_DS2_B4_19",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_2-Debug-72a6b1bdcabadebbe94e.json",
+					"name" : "GSSS_DS2_B4_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_20::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_20-Debug-ec8b97496926a8b793fe.json",
+					"name" : "GSSS_DS2_B4_20",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_21::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_21-Debug-f77d6a1aad5a0f848773.json",
+					"name" : "GSSS_DS2_B4_21",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_22::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_22-Debug-e49e4262b2e0071752de.json",
+					"name" : "GSSS_DS2_B4_22",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_23::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_23-Debug-4ee7b17ed44578bce858.json",
+					"name" : "GSSS_DS2_B4_23",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_24::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_24-Debug-0ce13c8d9742c3c05ff2.json",
+					"name" : "GSSS_DS2_B4_24",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_25::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_25-Debug-39c0427b3e663504e81f.json",
+					"name" : "GSSS_DS2_B4_25",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_26::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_26-Debug-53bfc52bade7fa947cdd.json",
+					"name" : "GSSS_DS2_B4_26",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_27::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_27-Debug-a0f6e2731b54bfa163ba.json",
+					"name" : "GSSS_DS2_B4_27",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_28::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_28-Debug-b2752f5899e0e8f412cb.json",
+					"name" : "GSSS_DS2_B4_28",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_29::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_29-Debug-845b3b9019fbdafe7c9b.json",
+					"name" : "GSSS_DS2_B4_29",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_3-Debug-8e31766b92c83a81e738.json",
+					"name" : "GSSS_DS2_B4_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_30::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_30-Debug-79f51bc1194aaba0ce74.json",
+					"name" : "GSSS_DS2_B4_30",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_31::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_31-Debug-58b14997ba6bd29ba647.json",
+					"name" : "GSSS_DS2_B4_31",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_4-Debug-1dbd9581323bdc00ed57.json",
+					"name" : "GSSS_DS2_B4_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_5-Debug-02b5d72ed8c54101d2f0.json",
+					"name" : "GSSS_DS2_B4_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_6-Debug-75ab3434a5bfac218f7d.json",
+					"name" : "GSSS_DS2_B4_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_7-Debug-6309fe035de03db65ae8.json",
+					"name" : "GSSS_DS2_B4_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_8-Debug-30b4c5642d96b53bac37.json",
+					"name" : "GSSS_DS2_B4_8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GSSS_DS2_B4_9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GSSS_DS2_B4_9-Debug-38ed4c76f69c0736a380.json",
+					"name" : "GSSS_DS2_B4_9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Saurav/CLionProjects/GSSS-DS2-B4/cmake-build-debug",
+		"source" : "C:/Users/Saurav/CLionProjects/GSSS-DS2-B4"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
